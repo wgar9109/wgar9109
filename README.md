@@ -12,6 +12,28 @@
  <img alt="Photos of NASCAR" src="https://cdn-8.motorsport.com/images/mgl/01WgJxvY/s8/ricky-stenhouse-jr-jtg-daugher-1.jpg">
 </picture>
 
+## About me
+
+Howdy, My name's Tyler. I love how a little bit of determination, mixed together with the understanding of knowledge, can be achieved to reach a goal.
+
+| Rank | Languages |
+|-----:|---------------|
+|     1|   HTML5       |
+|     2|   CSS3        |
+|     3|   Javascript  |
+
+<details>
+<summary>My top hobbies</summary>
+
+| Rank | Hobbies |
+|-----:|---------------|
+|     1| Playing guitar                 |
+|     2| Learning front end development |
+|     3| Creating things from nothing   |
+|     4| Welding                        |
+
+
+</details>
 
 <!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
