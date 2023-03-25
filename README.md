@@ -1,11 +1,19 @@
-### Hi there 👋
+# My Markdown File
 
-<!--
-**wgar9109/wgar9109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things to accomplish soon
+- [x] Learn HTML5 & CSS3 
+- [ ] Learn Javascript Fundamentals
+- [x] Create a mobile responsive website
+- [ ] Create a site using only JavaScript
 
-Here are some ideas to get you started:
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://cdn-1.motorsport.com/images/mgl/2GzrJzz0/s8/race-winner-william-byron-hend-1.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i0.wp.com/tobychristie.com/wp-content/uploads/2023/01/ByronRaptorScheme_1.jpeg?resize=696%2C480&ssl=1">
+ <img alt="Photos of NASCAR" src="https://cdn-8.motorsport.com/images/mgl/01WgJxvY/s8/ricky-stenhouse-jr-jtg-daugher-1.jpg">
+</picture>
 
-- 🔭 I’m currently working on ...
+
+<!-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
