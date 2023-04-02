@@ -2,7 +2,7 @@
 
 ## Things to accomplish soon
 - [x] Learn HTML5 & CSS3 
-- [ ] Learn Javascript Fundamentals
+- [ x ] Learn Javascript Fundamentals
 - [x] Create a mobile responsive website
 - [ ] Create a site using only JavaScript
 
